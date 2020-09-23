@@ -5,3 +5,4 @@ export ListGroup from './ListGroup';
 export Modal from './Modal';
 export {Col, Row} from './Grid';
 export Spinner from './Spinner';
+export Media from './Media';
