@@ -1,3 +1,10 @@
+## [0.1.3](https://github.com/miaoxing/mxjs-bootstrap/compare/v0.1.2...v0.1.3) (2021-03-12)
+
+
+### Bug Fixes
+
+* 更新前端包依赖 ([c9cc2cc](https://github.com/miaoxing/mxjs-bootstrap/commit/c9cc2cc6d67995850a4686bdfab1e47a17d4e048))
+
 ## [0.1.2](https://github.com/miaoxing/mxjs-bootstrap/compare/v0.1.1...v0.1.2) (2021-03-10)
 
 
