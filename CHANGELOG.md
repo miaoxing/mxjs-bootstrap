@@ -1,3 +1,13 @@
+## [0.1.10](https://github.com/miaoxing/mxjs-bootstrap/compare/v0.1.9...v0.1.10) (2022-07-01)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.9](https://github.com/miaoxing/mxjs-bootstrap/compare/v0.1.8...v0.1.9) (2022-06-01)
 
 
