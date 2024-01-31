@@ -1,3 +1,10 @@
+## [0.1.19](https://github.com/miaoxing/mxjs-bootstrap/compare/v0.1.18...v0.1.19) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([c3bca98](https://github.com/miaoxing/mxjs-bootstrap/commit/c3bca98a61542c1ce1f79a54883d7ddd256bca9e))
+
 ## [0.1.18](https://github.com/miaoxing/mxjs-bootstrap/compare/v0.1.17...v0.1.18) (2024-01-08)
 
 
